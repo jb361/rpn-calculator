@@ -1,2 +1,2 @@
 # Reverse Polish Notation Calculator
-A reverse polish notation calculator that was built to emulate the functionality and quirks of a legacy program.
+A reverse polish notation calculator that was built to emulate the functionality and quirks of a legacy program. This project involved a signifant testing component to understand the behaviour of the existing program. Replicating it meant recreating the same bugs, such as a broken implementation of the shunting-yard algorithm. It also led to me porting the GLIBC random number generator to Java.
